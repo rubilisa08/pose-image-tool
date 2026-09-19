@@ -8,7 +8,7 @@
 
 | 파일명 | 포즈 | 프롬프트 |
 |---|---|---|
-| `output_01.png` | pose_01 | `a photo of an astronaut standing on the moon, cinematic lighting, highly detailed` |
+| `output_01.png` | pose_01 | `a girl in a flowing red dress standing on a beach at sunset` |
 
 ## 실험 A — 같은 포즈(pose_01), 다른 프롬프트
 
@@ -22,8 +22,8 @@
 
 | 파일명 | 포즈 | 프롬프트 |
 |---|---|---|
-| `expB_samepromt_pose01.png` | pose_01 | `a superhero in a dynamic pose, comic book art style, bold colors` |
-| `output_02.png` | pose_02 (직접 업로드한 사진) | `a superhero in a dynamic pose, comic book art style, bold colors` |
+| `expB_samepromt_pose01.png` | pose_01 (서있는 자세) | `a professional skateboarder in mid-trick, urban street background, dynamic action photo` |
+| `output_02.png` | pose_02 (팔다리를 벌리고 점프하는 자세) | `a professional skateboarder in mid-trick, urban street background, dynamic action photo` |
 
 ## 파라미터
 
