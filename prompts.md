@@ -27,7 +27,6 @@
 
 ## 파라미터
 
-- `controlnet_conditioning_scale`: 0.7
-- `num_inference_steps`: 28
-- `guidance_scale`: 3.5
-- `control_mode`: 4 (Union ControlNet의 pose 모드)
+- `controlnet_conditioning_scale`: 1.0
+- `num_inference_steps`: 25
+- `guidance_scale`: 7.5
